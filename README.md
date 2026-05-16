@@ -22,6 +22,7 @@ An AI-powered transparency platform for Kenyan citizens to monitor county budget
 - Benard
 - Monica
 - Francis
+- John
 
 ##Demo link
 [OpenbAgent](https://county-budget-watchdog-127640723266.europe-west2.run.app)
