@@ -1,0 +1,6 @@
+{
+  "name": "County Budget Watchdog",
+  "description": "Helping Kenyan residents understand county budgets and finance bills in plain language using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
