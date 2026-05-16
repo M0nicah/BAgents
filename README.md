@@ -1,6 +1,27 @@
+
 # 🇰🇪 The County Budget Watchdog
 
-An AI-powered transparency platform for Kenyan citizens to monitor county budgets, audit reports, and Hansard records.
+An AI-powered transparency platform for Kenyan citizens to monitor county budgets, audit reports, and Hansard records.Most county budget documents are large, technical PDFs that are difficult for residents to read or interpret. This project solves that problem by turning complex public finance documents into searchable, explainable, and resident-friendly insights.
+
+The Problem We Are Solving
+
+Many Kenyan residents do not know:
+
+How county money is allocated
+Which projects are funded in their wards
+Whether health, roads, agriculture, or education budgets increased
+When allocations are changed through supplementary budgets or gazette notices
+
+County budget information is technically public, but in practice it is inaccessible because:
+
+Documents are hidden in scattered portals
+PDFs are long and difficult to understand
+Financial language is highly technical
+Residents cannot easily search for ward-specific information
+
+County Budget Watchdog makes public finance understandable, searchable, and accessible to everyone — not just auditors, lawyers, or economists.
+
+
 
 ## Features
 
