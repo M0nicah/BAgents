@@ -59,35 +59,22 @@ County Budget Watchdog makes public finance understandable, searchable, and acce
 
 Create a `.env` file in the root:
 
-\`\`\`env
-GEMINI_API_KEY=your_api_key_here
-NODE_ENV=development
-\`\`\`
+`.env`\
+ ``GEMINI_API_KEY=your_api_key_here``\
+ ``NODE_ENV=development``
 
 ### Installation
 
 1. Install dependencies:
-   \`\`\`bash
-   npm install
-   \`\`\`
+   `npm install` or `pnpm install`
 
-2. Run the development server:
-   \`\`\`bash
-   npm run dev
-   \`\`\`
+2. Run the development server: `npm run dev`
 
-3. Build for production:
-   \`\`\`bash
-   npm run build
-   npm start
-   \`\`\`
+3. Build for production: `npm run build npm start`
 
 ## Deployment (Cloud Run)
 
-1. Build the image:
-   \`\`\`bash
-   docker build -t watchdog .
-   \`\`\`
+1. Build the image: `docker build -t watchdog`
 
 2. Push to Artifact Registry and deploy to Cloud Run targeting port 3000.
 
